@@ -1,0 +1,18 @@
+{
+  "name": "market-research-marketplace",
+  "owner": {
+    "name": "Legacy GTM x Revenue Boost",
+    "email": "aj@revenueboost.net"
+  },
+  "metadata": {
+    "description": "Free ICP and Market Research skill from The Launchpad.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "market-research",
+      "source": "./market-research",
+      "description": "Build your ICP from real customer data: enrich a customer CSV, mine the shared triggers, and get the signals to target next."
+    }
+  ]
+}

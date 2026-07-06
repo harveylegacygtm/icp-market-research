@@ -1,0 +1,11 @@
+{
+  "name": "market-research",
+  "version": "1.0.0",
+  "description": "Build your ICP from real customer data. Upload a customer CSV and it enriches every company, mines the shared triggers and firmographics, and hands back the exact signals to target next. Free ICP and market-research skill from The Launchpad.",
+  "author": {
+    "name": "Legacy GTM x Revenue Boost",
+    "email": "aj@revenueboost.net"
+  },
+  "keywords": ["icp", "market-research", "cold-email", "outbound", "lead-generation", "buyer-signals"],
+  "license": "UNLICENSED"
+}
