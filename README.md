@@ -1,4 +1,10 @@
+![ICP & Market Research skill from The Launchpad](assets/banner.svg)
+
 # ICP & Market Research Skill
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-plugin-6C4BF6)
+![Price](https://img.shields.io/badge/price-free-1FA971)
+![No API keys](https://img.shields.io/badge/API_keys-none_needed-2E7BD6)
 
 Build your Ideal Customer Profile from real data, not guesses. Give it a list of
 your won customers and it researches every company, finds the firmographics and

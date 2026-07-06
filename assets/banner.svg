@@ -1,0 +1,50 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ICP and Market Research skill from The Launchpad">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A1730"/>
+      <stop offset="0.55" stop-color="#0E2A55"/>
+      <stop offset="1" stop-color="#123A73"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFB020"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+
+  <!-- faint signal grid -->
+  <g opacity="0.10" stroke="#8FB4FF" stroke-width="1">
+    <path d="M0 90 H1280 M0 180 H1280 M0 270 H1280"/>
+    <path d="M160 0 V360 M320 0 V360 M480 0 V360 M640 0 V360 M800 0 V360 M960 0 V360 M1120 0 V360"/>
+  </g>
+
+  <!-- rising trend line (the "triggers" motif) with amber node -->
+  <g opacity="0.85">
+    <polyline points="880,270 960,230 1040,250 1120,150 1200,110"
+      fill="none" stroke="url(#amber)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="880" cy="270" r="7" fill="#8FB4FF"/>
+    <circle cx="960" cy="230" r="7" fill="#8FB4FF"/>
+    <circle cx="1040" cy="250" r="7" fill="#8FB4FF"/>
+    <circle cx="1120" cy="150" r="7" fill="#8FB4FF"/>
+    <circle cx="1200" cy="110" r="9" fill="#FFB020"/>
+  </g>
+
+  <!-- FREE SKILL pill -->
+  <g transform="translate(80,74)">
+    <rect x="0" y="0" width="150" height="34" rx="17" fill="#FFB020"/>
+    <text x="75" y="23" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#0A1730" letter-spacing="1.5">FREE SKILL</text>
+  </g>
+
+  <!-- title -->
+  <text x="80" y="185" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">ICP &amp; Market Research</text>
+
+  <!-- subtitle -->
+  <text x="80" y="235" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="400" fill="#C9DBFF">Build your ICP from real customer data, not guesses.</text>
+
+  <!-- feature line -->
+  <text x="80" y="284" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#8FB4FF">Upload a customer CSV &#8594; enrich every company &#8594; get the buying triggers to target next.</text>
+
+  <!-- footer brand -->
+  <text x="80" y="332" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#6E8FC7" letter-spacing="0.5">The Launchpad &#183; Legacy GTM &#215; Revenue Boost</text>
+</svg>
