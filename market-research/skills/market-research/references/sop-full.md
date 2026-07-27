@@ -120,7 +120,7 @@ Why they work: they are personal. The prospect feels seen, and the timing lines 
 
 - Negative employee reviews; website redesign / migration; awards; using a competitor (switching opportunity) or a tool you integrate with; a customer lookalike
 
-**Industry triggers - about the category.** Things moving across the whole market - trends (AI adoption, cost pressure), analyst reports that mention your category, new regulation or legislation, and world events. Industry triggers rarely carry an email alone. They make individual or company triggers feel urgent - the macro framing around the specific reason you are reaching out.
+**Industry triggers - about the category.** Things moving across the whole market - trends (AI adoption, cost pressure), analyst reports that mention your category, new regulation or legislation, and world events. Industry triggers rarely carry an email alone. They make individual or company triggers feel urgent - the macro framing around the specific reason you are reaching out. (This scores lead urgency on a 12-24 month lens - for a faster-moving, 30-90 day read on what this ICP is talking about right now, see references/trending-pulse-check.md, which feeds hooks and copy rather than scoring.)
 
 ### Layer 4 - Psychographics (what they value)
 
@@ -262,7 +262,7 @@ Before anyone writes copy, you have to understand the pain from the prospect's p
 
 - What emotional and logical win can you deliver, better than anything else on the market?
 
-Answer these and your offer and copy practically write themselves. Skip them and you will write generic copy because you don't actually know what the prospect cares about.
+Answer these and your offer and copy practically write themselves. Skip them and you will write generic copy because you don't actually know what the prospect cares about. For the top 2-3 pains, go one step further and ladder them through the layers in references/pain-depth-ladder.md - logical, emotional, status, personal - so the copy can hit deeper than "save time and money."
 
 How to research it fast: read Reddit threads in their industry, G2 reviews of competitors, LinkedIn posts from people in that role. Listen to podcast episodes with that persona. Have 5 real conversations. Or have Claude do the reading and surface the pattern, which is exactly what this skill does.
 

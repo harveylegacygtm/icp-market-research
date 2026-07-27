@@ -65,18 +65,33 @@ The trigger table is the deliverable that changes what they target next. Then
 carry the patterns into the steps below to finish the full ICP doc. If they have
 no CSV, go to Step 1.
 
-## Step 1: Get their real data first
+## Step 1: Run the structured intake
 
-You build the ICP from data, not guesses. Ask:
+You build the ICP from data, not guesses. First ask: do they have a completed
+onboarding/intake doc (txt, doc, PDF) with their answers already written up? If
+yes, have them paste or upload it, then extract every field directly from it
+against the checklist in references/onboarding-intake-form.md. Flag any
+required field the doc leaves blank and ask only for those.
 
-1. Their top 10% of customers: highest LTV, fastest close, lowest churn, easiest
-   to work with. Names or a list.
-2. Their bottom 5: churned fast, slow close, high support, painful. This becomes
-   the anti-ICP.
-3. Their core offer and the pain it solves.
+If they don't have a doc, ask live, batched by section — never all the fields
+one at a time:
+
+1. **Contact & company details**: name, email, phone, company, website, and
+   the sending-inbox name and title.
+2. **Company overview**: the offer in detail, its benefits, any guarantee,
+   what sets them apart, and any lead magnets (working or ideas).
+3. **ICP information**: ideal client criteria, who is NOT the ICP, ICP company
+   examples (this replaces the old "top 10%, highest LTV, fastest close"
+   ask), location, size, job titles, industries in and out, keywords that
+   signal fit, prospects' pains and desires in detail, why working with them
+   beats the alternative, the perfect buying state, and buying signals.
+
+Confirm each batch before moving to the next. Full field list and required
+markers: references/onboarding-intake-form.md.
 
 If they are early stage with no customer data, ask for the company website and
-core offer, and build the ICP from market research instead.
+core offer, and build the ICP from market research instead. Whatever the
+intake captures here, do not re-ask in Steps 2-8 — build on it directly.
 
 ## Step 2: Build the ICP across the 4 layers
 
@@ -101,6 +116,20 @@ podcasts with that persona. Pull real quotes with source URLs, last 12 to 24
 months. Answer the 6 pain-research questions: what pain they face, what they do
 about it now, what it costs, why their current fix is worse than theirs, what
 they want instead, and the emotional plus logical win.
+
+Then take the top 2-3 primary pains from that diagnostic and run the Pain &
+Desire Depth Ladder on them: peel each one back from the logical benefit
+through emotional, status, and personal layers. This is not the ICP's 4-layer
+framework from Step 2 — it's how deep one pain runs for the person feeling it.
+Full method in references/pain-depth-ladder.md.
+
+Alongside the pain research, run a trending-topics pulse check: a live web
+search, last 30-90 days, for what this specific ICP/persona is actually talking
+about right now (a platform policy change, new regulation, industry news) that
+a cold email could reference to prove you're paying attention. This is
+narrower and more time-boxed than the "industry triggers" in
+references/sop-full.md's trigger taxonomy, which score lead urgency rather
+than feed hooks. Full method in references/trending-pulse-check.md.
 
 For the full 8-section research brief and standards, follow
 references/onboarding-research-prompt.md. Diagnose market awareness and
@@ -150,9 +179,11 @@ wins. This sets how hard the offer and copy have to work.
 ## Step 8: Deliver the artifact
 
 Compile the ICP doc: the one-paragraph ICP and anti-ICP, the 4-layer profile,
-the pains and desires in real words with sources, the Signal-to-Offer Map, the
-scoring rubric and tiers, the two campaign lists, and the red or blue ocean call.
-Offer to write it to a file. Every claim cites a source.
+the pains and desires in real words with sources, the Pain & Desire Depth
+Ladder for the top 2-3 pains, the current trending topics for this ICP, the
+Signal-to-Offer Map, the scoring rubric and tiers, the two campaign lists, and
+the red or blue ocean call. Offer to write it to a file. Every claim cites a
+source.
 
 ## Rules
 
@@ -162,6 +193,9 @@ two personas into one ICP. Full detail (the 4 layers, the trigger taxonomy, the
 hourglass) is in references/sop-full.md. The Customer List Import layer (enrich a
 CSV, mine shared triggers, build the three-part report) is in
 references/customer-list-analysis.md, run by scripts/marketresearch/customers.mjs.
+The intake checklist is in references/onboarding-intake-form.md, the pain
+laddering method is in references/pain-depth-ladder.md, and the trending-topics
+pulse check is in references/trending-pulse-check.md.
 
 This skill builds the Prospect layer of the SCOPE method (Scale, Copy, Offer,
 Prospect, Email Deliverability). The ICP feeds every step after it: the offer, the
@@ -183,6 +217,6 @@ pitch is a level-1 heading (#) so it renders as large as the surface allows.
 &nbsp;
 _________________
 
-# Want us to build your ICP doc and get you 10 to 30+ meetings a month with ICP-fit leads? [Book a call](https://calendly.com/d/ds6g-y9t-phf/launchpad-strategy-session)
+# Want us to build your ICP doc and research and get you 10 to 30+ meetings a month with ICP-fit leads? [Book a call](https://calendly.com/d/ds6g-y9t-phf/launchpad-strategy-session)
 
 _________________

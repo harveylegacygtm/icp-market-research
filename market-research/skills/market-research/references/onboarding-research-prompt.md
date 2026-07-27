@@ -22,7 +22,11 @@ evidence-backed research to inform the outreach strategy.
 2. Market state and ICP: how the ICP solves the problem today, pain points by
    severity (with real quotes), desires and aspirations, previous attempts and
    frustrations, quantified cost of inaction (2 to 3 concrete scenarios), and a
-   competitor gap table (3 to 5 competitors).
+   competitor gap table (3 to 5 competitors). For the top 2 to 3 primary pain
+   points, ladder them through the Pain & Desire Depth Ladder (logical,
+   emotional, status, personal, and legacy where the evidence supports it) —
+   see references/pain-depth-ladder.md — instead of a flat emotional-vs-practical
+   split.
 3. Response triggers and hooks: 10 subject lines or hooks, 5 to 7 opening
    questions, peer-to-peer conversation starters, contrarian angles.
 4. Offer and lead-magnet ideas: 3 to 5 assets with format, working title, core
@@ -36,8 +40,15 @@ evidence-backed research to inform the outreach strategy.
    industry voice.
 7. Risk factors: regulatory issues, timing sensitivities, claims to avoid,
    competitive intelligence, saturation, economic headwinds.
-8. Big ideas: 3 to 5 bold campaign concepts, each with the one-sentence idea,
-   why it works, execution, and risk level.
+8. Current trending topics: 3 to 5 items this specific ICP/persona is actually
+   talking about right now (last 30 to 90 days) — a platform or regulatory
+   change, industry news, a discourse spike on LinkedIn/Reddit — each with
+   source, date, why this ICP cares, and how to use it (hook, urgency framing,
+   or a Big Idea angle). See references/trending-pulse-check.md. Distinct from
+   the 12-24 month trend window used elsewhere in this brief.
+9. Big ideas: 3 to 5 bold campaign concepts, each with the one-sentence idea,
+   why it works, execution, and risk level. Trending topics from item 8 are
+   fair game for a borrowed-interest angle here.
 
 ## Output format
 

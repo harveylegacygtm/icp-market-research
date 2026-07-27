@@ -16,12 +16,22 @@ A free skill from **The Launchpad** (Legacy GTM x Revenue Boost).
 
 ## What it does
 
+- **Takes your intake in one shot.** Paste or upload a completed onboarding
+  form and it extracts everything from it, or answer a short batch of
+  questions live — no 25-question interrogation.
 - **Builds your ICP** across four layers: firmographics, technographics, buying
   signals, and psychographics, plus a one-paragraph ICP and anti-ICP.
 - **Mines your customer list.** Upload a CSV of won customers and it enriches each
   company, tags the buying triggers (hiring, funding, new exec, expansion,
   product launch, and more), and ranks them by how many customers share each one.
   If 9 of 12 customers are hiring fast, headcount growth becomes a targeting rule.
+- **Peels back the pain.** For your top 2-3 pain points, it ladders past the
+  obvious "save time and money" down to the emotional, status, and personal
+  layers underneath — where the sharpest hooks actually live.
+- **Pulls what's trending right now.** A live, 30-90 day scan of what your
+  exact audience is talking about this month (a platform change, new
+  regulation, industry news), so your opener can reference something real and
+  current, not a stale trend.
 - **Maps signals to your offer.** The same data point that scores a lead also
   writes the personalized opener. One enrichment, two jobs.
 - **Gives you a report and the artifacts:** the ICP doc, an enriched customer
@@ -73,11 +83,15 @@ project's `.claude/skills/` folder and reload Claude Code.
 | Company LinkedIn | Company LinkedIn URL |
 | Company News | A recent signal, if you know one (leave blank and it researches) |
 
-Then upload it and say "build my ICP from this list." It will ask you three
-things first (what you sell, your price, who you think your ICP is), then research
+Then upload it and say "build my ICP from this list." It will ask you your
+baseline first (what you sell, your price, who you think your ICP is), then research
 every company and hand back the patterns.
 
-You can also skip the CSV and just say "build my ICP" to run the guided version.
+**No customer list yet, or starting from scratch?** Just say "build my ICP" to
+run the guided version. It will ask if you have a completed onboarding form to
+paste or upload — if so, it pulls every answer straight from it. If not, it
+asks a short batch of questions at a time (your company and offer, then your
+ICP) instead of firing off two dozen questions one by one.
 
 ---
 
@@ -87,6 +101,10 @@ You can also skip the CSV and just say "build my ICP" to run the guided version.
 2. **Your offer** and the market around it (red ocean or blue ocean).
 3. **Your customers** — the ranked trigger table and the exact signals to add to
    your targeting and list-building.
+4. **The pain depth ladder** — your top 2-3 pains, laddered from logical down
+   to emotional, status, and personal.
+5. **What's trending right now** for your exact audience, with sources and how
+   to use each one in a hook or opener.
 
 Plus an enriched customer CSV and a ready-to-use block of ICP filters.
 
