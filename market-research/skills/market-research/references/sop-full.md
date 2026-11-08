@@ -136,7 +136,7 @@ The softest layer. Hardest to pull from a database, most powerful when you nail 
 
 # 👉 Want us to create your ICP doc for you and show you how we'd get you 10-30 additional meetings with ICP-fit leads every month? 
 
-# **[Book a call here](https://calendly.com/d/ds6g-y9t-phf/launchpad-strategy-session)** 🚀
+# **[Book a call here](https://calendly.com/aj--158/intro-call)** 🚀
 
 ## The Signal-to-Offer Map - the bridge between who and what you say
 
@@ -306,4 +306,4 @@ When all eight are done, you have an ICP - and the two lists and the signal map 
 
 # 👉 Want us to create your ICP doc for you and show you how we'd get you 10-30 additional meetings with ICP-fit leads every month? 
 
-# **[Book a call here](https://calendly.com/d/ds6g-y9t-phf/launchpad-strategy-session)** 🚀
+# **[Book a call here](https://calendly.com/aj--158/intro-call)** 🚀

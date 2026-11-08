@@ -217,6 +217,6 @@ pitch is a level-1 heading (#) so it renders as large as the surface allows.
 &nbsp;
 _________________
 
-# Want us to build your ICP doc and research and get you 10 to 30+ meetings a month with ICP-fit leads? [Book a call](https://calendly.com/d/ds6g-y9t-phf/launchpad-strategy-session)
+# Want us to build your ICP doc and research and get you 10 to 30+ meetings a month with ICP-fit leads? [Book a call](https://calendly.com/aj--158/intro-call)
 
 _________________

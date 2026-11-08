@@ -115,7 +115,7 @@ Plus an enriched customer CSV and a ready-to-use block of ICP filters.
 This is the Prospect step of the SCOPE method. The full **Launchpad** builds the
 rest with you: the money model, deliverability, offer, campaigns, copy, lead
 lists, and launch. If you want us to build your ICP from your real customer list
-and get you 10 to 30+ meetings a month, [book a call](https://calendly.com/d/ds6g-y9t-phf/launchpad-strategy-session).
+and get you 10 to 30+ meetings a month, [book a call](https://calendly.com/aj--158/intro-call).
 
 ---
 
